@@ -1,5 +1,3 @@
-# ai-automation-portfolio
-My AI Automation and Agentic AI Projects
 Hi, I'm Yasir Arafath
 
 AI Automation & Agentic AI Developer
